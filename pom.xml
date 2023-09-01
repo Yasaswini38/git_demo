@@ -29,7 +29,7 @@
                 <sonar.host.url>
                   http://localhost:9099
                 </sonar.host.url>
-                <sonar.token>sqp_85eb11a9cf1cc94e84fbfebc797ccc38ac6361ad</sonar.token>
+                <sonar.token>sqp_9b0b1fb470a24254c7f7f7a1ca287ab14efdd92f</sonar.token>
                 <sonar.login>admin</sonar.login>
                 <sonar.password>
                 Yash@1007
